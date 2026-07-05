@@ -6,7 +6,7 @@
 This repository showcases our journey in developing a robust Data Analyst Agent, enhanced with routing, tracing, and comprehensive evaluation mechanisms. Our primary tools include [Arize AI's Phoenix](https://docs.arize.com/phoenix) and integrations with OpenTelemetry (OTel).
  
 ## Project Overview  
-
+ 
 1. **Data Analyst Agent Development**: We began by creating an AI agent capable of performing data analysis tasks, leveraging advanced machine learning models to interpret and process data effectively.
 
 2. **Routing and Tracing Integration**: To manage and monitor the agent's operations, we incorporated routing mechanisms and implemented tracing using OpenTelemetry. This setup allows for detailed tracking of the agent's decision-making pathways and performance metrics.
