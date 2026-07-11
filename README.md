@@ -1,6 +1,6 @@
 # Evaluating AI Agents
 
-![image](https://github.com/user-attachments/assets/2ae1d2a6-f3ce-4cd5-b6d9-49005a03afbc) 
+![image](https://github.com/user-attachments/assets/2ae1d2a6-f3ce-4cd5-b6d9-49005a03afbc)  
   
 
 This repository showcases our journey in developing a robust Data Analyst Agent, enhanced with routing, tracing, and comprehensive evaluation mechanisms. Our primary tools include [Arize AI's Phoenix](https://docs.arize.com/phoenix) and integrations with OpenTelemetry (OTel).
